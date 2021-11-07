@@ -1,0 +1,180 @@
+body {
+  background-image: url(../iamges/bak.jpg);
+  font-family: arial;
+  text-decoration: none;
+  background-size: 1368px;
+}
+
+.navbar {
+  padding: 1em;
+  text-decoration: none;
+}
+
+.name {
+  text-decoration: none;
+  margin-right: 5em;
+  font-size: 2.5em;
+  color: #ff5100;
+  margin-top: 0em;
+}
+
+a {
+  color: white;
+  margin-left: 4em;
+  text-decoration: none;
+  font-size: 1em;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #ff5100;
+}
+
+.text {
+  margin-left: 12em;
+  margin-top: -3.9em;
+}
+
+input {
+  background: none;
+  border-color: #ff5100;
+  height: 3em;
+  margin-left: 11em;
+  border-top-left-radius: 0.5em;
+  color: white;
+}
+
+.srch {
+  margin-left: -0.3em;
+  background: #ff5100;
+  padding: 0.7em 1.1em;
+  border-bottom-right-radius: 0.5em;
+}
+
+.srch:hover {
+  color: white;
+}
+
+p {
+  padding: 1em;
+  margin-bottom: -3em;
+  font-size: 3.5em;
+  font-weight: bold;
+  font-family: palatino lino type;
+  color: white;
+}
+
+.dj {
+  color: #ff5100;
+}
+
+.web {
+  margin-top: 4.6em;
+}
+
+h4 {
+  color: #ebebeb;
+  margin-top: 7.6em;
+  margin-left: 3.5em;
+  width: 40em;
+  line-height: 1.5em;
+}
+
+.login {
+  padding: 1.5em;
+  background: rgba(0, 0, 0, 0.808);
+  width: 10em;
+  height: 25em;
+  width: 20em;
+  margin-left: 58em;
+  margin-top: -22em;
+  border-radius: 1em;
+}
+
+.here {
+  margin-left: 7.5em;
+  color: #ff5100;
+  background: white;
+  padding: 0.8em 4em;
+  border-radius: 0.5em;
+  margin-left: 3.2em;
+}
+
+.here2 {
+  margin-left: 7.5em;
+  color: black;
+  background: #ff5100;
+  padding: 0.8em 4em;
+  border-radius: 0.5em;
+  margin-left: 3.2em;
+  margin-top: 10em;
+}
+
+.here2:hover {
+  color: black;
+}
+
+.email {
+  margin-left: 1em;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-radius: 0em;
+  margin-top: 2.9em;
+  width: 21.5em;
+}
+
+.email2 {
+  margin-left: 1em;
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  border-radius: 0em;
+  margin-top: 2.9em;
+  width: 21.5em;
+  margin-bottom: 3em;
+}
+
+h5 {
+  color: white;
+  font-size: 0.7;
+  width: 12em;
+  text-align: center;
+}
+
+ul {
+  color: #ff5100;
+}
+
+.txt {
+  margin-left: -2.9em;
+  margin-top: -0.8em;
+}
+
+.log {
+  color: white;
+}
+
+.three {
+  margin-left: 4.8em;
+}
+
+img {
+  height: 25px;
+  width: 25px;
+}
+
+.google {
+  margin-left: 0em;
+  margin-top: 0.4em;
+}
+
+.go-to {
+  margin-left: -2.4em;
+}
+
+.go-to-1 {
+  margin-left: 2.8em;
+  margin-top: -3.9em;
+}
+/*# sourceMappingURL=main.css.map */
